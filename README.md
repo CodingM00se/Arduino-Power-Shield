@@ -1,5 +1,5 @@
 # Arduino-Power-Shield
-5V - 12V Buck Converter Shield. Made using Altium. Strictly for demo purposes.
+12V to 5V Buck Converter Shield. Made using Altium. Strictly for demo and learning purposes.
 
 Ordered 5 pcs off of JLCPCB as of 3/9/2023 for around $45. Will upload pictures upon arrival!
 

@@ -1,0 +1,26 @@
+Altium Designer Pick and Place Locations
+E:\Altium\Powerboard\Powerboard_Project\Project Outputs for Powerboard_Project\Pick Place for Powerboard PCB.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       09/03/23
+Time:       00:13
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"U1","TPS562200DDCR","TopLayer","SOT95P280X110-6N","864.587","690.567","90",""
+"R2","10k","TopLayer","RESC0603X26N","1105.575","635.095","180","RC0201FR-0710KL  10.0K 1% 0.05W TK200"
+"R1","56.2k","TopLayer","RESC0603X26N","1105.122","688.095","0","RC0201FR-0756K2L RES SMD 56.2K OHM 1% 1/20W 0201"
+"L1","4.7uH","TopLayer","FP-NR5040-H_4_1-MFG","1457.000","577.000","270","NR5040T4R7N SMD Power Inductors 4.7uH ±30% 3.1A 37.7mO"
+"J4","8 pin Header","TopLayer","SAMTEC_SSQ-108-03-X-S","2167.000","2007.000","180","SSQ-108-03-X-S"
+"J3","8 pin Header","TopLayer","SAMTEC_SSQ-108-03-X-S","1467.000","107.000","180","SSQ-108-03-X-S"
+"J2","6 pin Header","TopLayer","SAMTEC_SSQ-106-03-X-S","2267.000","107.000","180","SSQ-106-03-X-S 6 Position Receptacle Connector Through Hole"
+"J1","10 pin Header","TopLayer","SAMTEC_SSQ-110-03-X-S","1207.000","2007.000","180","SSQ-110-03-X-S 10 Position Receptacle Connector Through Hole"
+"D2","MKRAWT-00-0000-0D0HG235H","TopLayer","CREE-MK-R-2_V","2167.000","823.000","0","LED, White, 12 V, 2-Pin SMD, RoHS, Tape and Reel"
+"D1","MKRAWT-00-0000-0D0HG235H","TopLayer","CREE-MK-R-2_V","2166.000","1566.000","0","LED, White, 12 V, 2-Pin SMD, RoHS, Tape and Reel"
+"C3","10uF","TopLayer","CAPC2012X100N","552.000","697.646","90","C2012X5R1V106K085AC 10µF ±10% 35V Ceramic Capacitor X5R 0805 (2012 Metric)"
+"C2","22uF","TopLayer","CAPC1608X100N","860.098","429.095","0","C1608X5R1A226M080AC 22µF ±20% 10V Ceramic Capacitor X5R 0603 (1608 Metric)"
+"C1","0.1uF","TopLayer","CAPC2012X94N","638.185","697.449","90","08053C104KAT2A Cap Ceramic 0.1uF 25V X7R 10% Pad SMD 0805 125¬Å¬é T/R"

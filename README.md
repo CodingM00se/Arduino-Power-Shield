@@ -1,9 +1,10 @@
 # Arduino-Power-Shield
 12V to 5V Buck Converter Shield. Made using Altium. Strictly for demo and learning purposes.
 
-Ordered 5 pcs off of JLCPCB as of 3/9/2023 for around $45. Will upload pictures upon arrival!
+Ordered 5 pcs off of JLCPCB as of 3/9/2023 for around $45 with some component assembly. Will upload pictures upon arrival!
+https://jlcpcb.com
 
-Electronics shortage will increase costs and lead times on this, so I would consider against purchasing this board directly. Instead, study it as a learning tool, and build your own! 
+Electronics shortage will increase costs and lead times on this, so I would consider against purchasing this board directly with components assembled. Instead, study it as a learning tool, and build your own! 
 
 A step by step tutorial on how to make a similar board can be found on Altium's Education site if you're looking for similar learning or training.
 https://education.altium.com
